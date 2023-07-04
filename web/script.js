@@ -1,3 +1,3 @@
 function showAlert(message) {
-    alert(message)
+     openSetting.postMessage("Hello from JS");
 }
